@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Playwrite**
 
-- 💬 Ask me about **Selenium, Backend Automation(Httpclient), Java**
+- 💬 Ask me about **Selenium, Appium, Backend Automation, Java**
 
 - 📫 How to reach me **abhishekyadav21298@gmail.com**
 
